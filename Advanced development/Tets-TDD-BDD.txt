@@ -1,0 +1,12 @@
+/*
+    Tests
+    +Unitarios
+    +Integrados
+    +Funcionais
+*/
+
+/*
+    TDD - Desenvolvimento orientado a teste;
+    consiste em fazer um teste falho paradepois criar o codigo em cima do teste falho;
+    para que o teste passe, depois refatorar o codigo; 
+*/
